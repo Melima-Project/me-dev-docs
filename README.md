@@ -5,7 +5,9 @@
 
 - https://futurestud.io/tutorials/tag/retrofit  
 - https://github.com/google/gson/blob/master/UserGuide.md  
-- https://square.github.io/retrofit/  
+- https://square.github.io/retrofit/
+- https://www.postgresql.org/docs/9.6/static/datatype-numeric.html
+- https://converter.murkin.me/
 - Book: [Retrofit: Love working with APIs on Android](https://leanpub.com/retrofit-love-working-with-apis-on-android)  
 
   > We could supply team members with book for free (buy for you), if you going to work on android client.
